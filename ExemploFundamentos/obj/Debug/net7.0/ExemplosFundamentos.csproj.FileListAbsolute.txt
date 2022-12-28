@@ -1,0 +1,15 @@
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\bin\Debug\net7.0\ExemplosFundamentos.exe
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\bin\Debug\net7.0\ExemplosFundamentos.deps.json
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\bin\Debug\net7.0\ExemplosFundamentos.runtimeconfig.json
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\bin\Debug\net7.0\ExemplosFundamentos.dll
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\bin\Debug\net7.0\ExemplosFundamentos.pdb
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.csproj.AssemblyReference.cache
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.AssemblyInfo.cs
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.dll
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\refint\ExemplosFundamentos.dll
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.pdb
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ExemplosFundamentos.genruntimeconfig.cache
+C:\Users\elias.almeida\Documents\Curso C-Sharp DIO\ExemplosFundamentos\obj\Debug\net7.0\ref\ExemplosFundamentos.dll
